@@ -6,9 +6,13 @@ public class FirstProgram {
 	
 	public static void main(String[] args) {
 		
+		//some comment
+		
 		FirstProgram firstProgram = new FirstProgram();
 		
 		System.out.println(firstProgram.course);
+		
+		System.out.println("some output");
 		
 	}
 }
